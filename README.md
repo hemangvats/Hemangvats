@@ -28,23 +28,17 @@ MySQL • Git • Oracle Cloud Infrastructure (OCI) • VS Code
 
 ## 🛠️ Featured Projects
 
+### 🤖 [AI Interview Evaluation System](https://github.com/hemangvats/AI-Interview-Evaluation-System)
+An intelligent AI-powered interview preparation bot. It processes user resumes and generates contextual interview questions spanning various difficulty levels.
+- **Tech Stack:** Python, Ollama, LangChain, Generative AI
+- Features persistent chat history and a modern dark-theme UI
+- Dynamically adapts question complexity based on user interaction
+
 ### 🚌 [Bus Management System](https://github.com/hemangvats/python/blob/main/main.py)
 A comprehensive desktop application for managing bus operations with user authentication and database integration.
 - **Tech Stack:** Python, Tkinter, MySQL
 - Implemented CRUD operations for bus schedules, routes, and passenger management
 - Designed intuitive GUI enabling efficient data entry and retrieval
-
-### 💰 [Billing System](https://github.com/hemangvats/python/blob/main/jewel%20with%20binary.py)
-An automated billing system with invoice generation, tax calculation, and receipt printing functionality.
-- **Tech Stack:** Python, File I/O, Data Structures
-- Enhanced user experience with input validation and error handling
-- Utilized Python data structures for persistent storage
-
-### 📚 [Vocabulary Builder](https://github.com/hemangvats/python/blob/main/ap.py)
-A Python-based vocabulary management system with CSV file storage for building personal word databases.
-- **Tech Stack:** Python, CSV, File Handling
-- Enhanced learning efficiency through interactive CRUD operations
-- Selective word lookup features for efficient data retrieval
 
 ## 🏆 Certifications
 
