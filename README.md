@@ -34,7 +34,7 @@ An intelligent AI-powered interview preparation bot. It processes user resumes a
 - Features persistent chat history and a modern dark-theme UI
 - Dynamically adapts question complexity based on user interaction
 
-### 🚌 [Bus Management System](https://github.com/hemangvats/python/blob/main/main.py)
+### 🚌 [Bus Management System](https://github.com/hemangvats/Bus-Management-System)
 A comprehensive desktop application for managing bus operations with user authentication and database integration.
 - **Tech Stack:** Python, Tkinter, MySQL
 - Implemented CRUD operations for bus schedules, routes, and passenger management
