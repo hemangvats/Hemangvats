@@ -42,10 +42,11 @@ MySQL • Git • Oracle Cloud (OCI) • Docker • VS Code • Jupyter Notebook
 ## 🛠️ Featured Projects
 
 ### 🤖 [AI Interview Evaluation System](https://github.com/hemangvats/AI-Interview-Evaluation-System)
-An intelligent AI-powered interview preparation bot using local LLM-based scoring and structured feedback.
-- **Tech Stack:** Python, Ollama, LangChain, Generative AI
-- Features persistent chat history and a modern dark-theme UI
-- Dynamically adapts question complexity based on user interaction
+An advanced autonomous AI interview bot that simulates professional-grade technical assessments using local LLMs.
+- **Tech Stack:** Python, Ollama (LLaMA 3.2), LangChain, Streamlit
+- **Phase-Based Evaluation**: Real-time scoring tailored for Introduction and Technical Assessment phases.
+- **Dynamic Difficulty**: Automatically scales question complexity based on candidate performance.
+- **Senior Hiring Manager Analytics**: Generates professional performance reports with strengths, gaps, and development roadmaps.
 
 ### 🚌 [Bus Management System](https://github.com/hemangvats/Bus-Management-System)
 A full-stack desktop application for managing bus operations with user authentication and database integration.
